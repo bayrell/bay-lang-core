@@ -1,0 +1,39 @@
+[submodule "lib/Runtime"]
+	path = lib/Runtime
+	url = https://github.com/bayrell/Runtime
+[submodule "lib/Runtime.Console"]
+	path = lib/Runtime.Console
+	url = https://github.com/bayrell/Runtime.Console
+[submodule "lib/Runtime.Crypt"]
+	path = lib/Runtime.Crypt
+	url = https://github.com/bayrell/Runtime.Crypt
+[submodule "lib/Runtime.ORM"]
+	path = lib/Runtime.ORM
+	url = https://github.com/bayrell/Runtime.ORM
+[submodule "lib/Runtime.Unit"]
+	path = lib/Runtime.Unit
+	url = https://github.com/bayrell/Runtime.Unit
+[submodule "lib/Runtime.Web"]
+	path = lib/Runtime.Web
+	url = https://github.com/bayrell/Runtime.Web
+[submodule "lib/Runtime.Widget"]
+	path = lib/Runtime.Widget
+	url = https://github.com/bayrell/Runtime.Widget
+[submodule "lib/Runtime.Widget.Crud"]
+	path = lib/Runtime.Widget.Crud
+	url = https://github.com/bayrell/Runtime.Widget.Crud
+[submodule "lib/Runtime.Widget.Dialog"]
+	path = lib/Runtime.Widget.Dialog
+	url = https://github.com/bayrell/Runtime.Widget.Dialog
+[submodule "lib/Runtime.Widget.Form"]
+	path = lib/Runtime.Widget.Form
+	url = https://github.com/bayrell/Runtime.Widget.Form
+[submodule "lib/Runtime.Widget.Tab"]
+	path = lib/Runtime.Widget.Tab
+	url = https://github.com/bayrell/Runtime.Widget.Tab
+[submodule "lib/Runtime.Widget.Table"]
+	path = lib/Runtime.Widget.Table
+	url = https://github.com/bayrell/Runtime.Widget.Table
+[submodule "lib/Runtime.XML"]
+	path = lib/Runtime.XML
+	url = https://github.com/bayrell/Runtime.XML
