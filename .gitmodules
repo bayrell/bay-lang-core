@@ -19,21 +19,6 @@
 [submodule "lib/Runtime.Widget"]
 	path = lib/Runtime.Widget
 	url = https://github.com/bayrell/Runtime.Widget
-[submodule "lib/Runtime.Widget.Crud"]
-	path = lib/Runtime.Widget.Crud
-	url = https://github.com/bayrell/Runtime.Widget.Crud
-[submodule "lib/Runtime.Widget.Dialog"]
-	path = lib/Runtime.Widget.Dialog
-	url = https://github.com/bayrell/Runtime.Widget.Dialog
-[submodule "lib/Runtime.Widget.Form"]
-	path = lib/Runtime.Widget.Form
-	url = https://github.com/bayrell/Runtime.Widget.Form
-[submodule "lib/Runtime.Widget.Tab"]
-	path = lib/Runtime.Widget.Tab
-	url = https://github.com/bayrell/Runtime.Widget.Tab
-[submodule "lib/Runtime.Widget.Table"]
-	path = lib/Runtime.Widget.Table
-	url = https://github.com/bayrell/Runtime.Widget.Table
 [submodule "lib/Runtime.XML"]
 	path = lib/Runtime.XML
 	url = https://github.com/bayrell/Runtime.XML
